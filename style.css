@@ -11,12 +11,13 @@ h1 {
 
 .maindiv {
     background-color:white;
-    color: black;
-    width:300px;
+    color:black;
+    width:500px;
     padding:20px;
     border-radius:25px;
-    align:center;
+    margin:auto
 }
 
-
-
+#principal{margin-left:27%}
+#rate {margin-left:20%}
+#years {margin-left:20%}
